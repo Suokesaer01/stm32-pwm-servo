@@ -1,0 +1,26 @@
+# Keil MDK 编译产物与用户配置（不提交）
+Objects/
+Listings/
+DebugConfig/
+*.uvguix.*
+*.bak
+*.dep
+*.lnp
+*.map
+*.axf
+*.hex
+*.bin
+*.htm
+*.crf
+*.o
+*.d
+*.lst
+*.sct
+*.iex
+*.tra
+
+# 通用
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
